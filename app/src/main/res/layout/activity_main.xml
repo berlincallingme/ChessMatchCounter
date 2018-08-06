@@ -31,7 +31,7 @@
                 android:padding="16dp"
                 android:text=" Chess Player 1"
                 android:textColor="#536DFE"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:textStyle="bold"/>
 
             <TextView
